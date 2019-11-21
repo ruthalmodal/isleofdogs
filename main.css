@@ -69,3 +69,7 @@ h2 {
 .img-responsive {
   border-radius: 50%
 }
+
+label {
+  color: white;
+}
