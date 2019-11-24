@@ -3,6 +3,7 @@
   padding-top: 90px;
   min-height: 600px;
   margin-bottom: 0;
+  background-image: url(images/grass.jpg);
   background-size: cover;
   background-color: #00820d;
 }
@@ -73,9 +74,13 @@ label {
 }
 
 #links {
- color: white
+ color: black
 }
 
 body {
   font-family: arial;
+}
+
+#contact {
+  background-image: url(images/grass.jpg);
 }
