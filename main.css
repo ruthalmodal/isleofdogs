@@ -13,7 +13,6 @@
   text-shadow: 2px 2px 4px #000000;
 }
 
-
 blockquote {
   border-left: 0;
 }
@@ -37,9 +36,6 @@ h2 {
   background-color: rgba(32, 35, 41,0.8);
 }
 
-.form-inline input[name='email'] {
-  width: 80%;
-}
 #social-buttons {
   margin-top: 50px;
 }
@@ -71,7 +67,7 @@ label {
 }
 
 #feat {
-  background-color: #e67f02;
+  background-color: #f58d05;
 }
 
 #links {
@@ -88,5 +84,9 @@ body {
 }
 
 #contact {
+  background-image: url(images/grass.jpg);
+}
+
+#form {
   background-image: url(images/grass.jpg);
 }
